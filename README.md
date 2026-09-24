@@ -192,3 +192,5 @@ curl -X GET "http://localhost:5000/api/hotels?rating=4.5"
 1. Push your code to a public GitHub repository named `itm-assignment-01-hotel-api`.
 2. Include an exported **Postman Collection JSON** file in a `/postman` directory.
 3. Submit the GitHub repository link to your instructor/LMS portal.
+
+DEPLOYMENT LINK : https://hotelmanagementapi-74g8.onrender.com/
